@@ -1,0 +1,17 @@
+{
+    "user": {
+        "profile": {
+            "id": "12345",
+            "name": "John Doe",
+            "hash": {
+                "md5Hex": "377d484478843e5e2d8b7eb935cbf598"
+            }
+        },
+        "settings": {
+            "theme": "dark",
+            "notifications": true
+        }
+    },
+    "version": "1.0",
+    "status": "active"
+}
